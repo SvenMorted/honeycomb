@@ -1,0 +1,2114 @@
+{
+    "Version": 1,
+    "Language": "EN-US",
+    "SaveName": "LES Saab 340A",
+    "Data": [
+      {
+        "ButtonNumber": 0,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/CMD/MSP/button/heading",
+                "Value": ""
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 1,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/CMD/MSP/button/nav",
+                "Value": ""
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 2,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/CMD/MSP/button/approach",
+                "Value": ""
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 3,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 4,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/CMD/MSP/button/alt",
+                "Value": ""
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 5,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/CMD/MSP/button/vs",
+                "Value": ""
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 6,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/CMD/MSP/button/ias",
+                "Value": ""
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 7,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "",
+                "Value": "",
+                "Condition": "",
+                "ConditionValue": ""
+              }
+            ],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 8,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 9,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 10,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 11,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 12,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "sim/autopilot/altitude_up",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "ALT"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "sim/autopilot/vertical_speed_up",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "VS"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "FlyWithLua/HC_Bravo/SF34/HDG_Up",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "HDG"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "FlyWithLua/HC_Bravo/SF34/CRS_Up",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "CRS"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/saab/ias_bug_dial",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "IAS"
+              }
+            ],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 13,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "FlyWithLua/HC_Bravo/SF34/HDG_Down",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "HDG"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "LES/saab/ias_bug_dial",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "IAS"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "sim/autopilot/vertical_speed_down",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "VS"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "FlyWithLua/HC_Bravo/SF34/CRS_Down",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "CRS"
+              },
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "sim/autopilot/altitude_down",
+                "Value": "",
+                "Condition": "INT:FCU_SELECTOR, string",
+                "ConditionValue": "ALT"
+              }
+            ],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 14,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 15,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 16,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "INT:FCU_SELECTOR, string",
+                "Value": "IAS"
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 17,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "INT:FCU_SELECTOR, string",
+                "Value": "CRS"
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 18,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "INT:FCU_SELECTOR, string",
+                "Value": "HDG"
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 19,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "INT:FCU_SELECTOR, string",
+                "Value": "VS"
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 20,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [
+              {
+                "DE": "",
+                "EN": "",
+                "FR": "",
+                "ES": "",
+                "Variable": "INT:FCU_SELECTOR, string",
+                "Value": "ALT"
+              }
+            ],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 21,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 22,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 23,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 24,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 25,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 26,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 27,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 28,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 29,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 30,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 31,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 32,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 33,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 34,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 35,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 36,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 37,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 38,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 39,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 40,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 41,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 42,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 43,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 44,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 45,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 46,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      },
+      {
+        "ButtonNumber": 47,
+        "PressEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ],
+        "ReleaseEvent": [
+          {
+            "DE": "",
+            "EN": "",
+            "FR": "",
+            "ES": "",
+            "Variables": [],
+            "Variable": "",
+            "Value": "",
+            "Condition": "",
+            "ConditionValue": "",
+            "Conditions": [],
+            "Repeat": false
+          }
+        ]
+      }
+    ],
+    "LEDs": [
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 3,
+        "BitIndex": 5,
+        "ConditionLogic": "OR",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/master_caution",
+            "ConditionValue": ">0"
+          },
+          {
+            "Condition": "LES/saab/annun/CWP/aircond",
+            "ConditionValue": ">0"
+          },
+          {
+            "Condition": "LES/saab/annun/CWP/emer_lts_unarm",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 2,
+        "BitIndex": 6,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/master_warning",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 3,
+        "BitIndex": 0,
+        "ConditionLogic": "OR",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/CWP/eng_oil_press_L",
+            "ConditionValue": ">0"
+          },
+          {
+            "Condition": "LES/saab/annun/CWP/eng_oil_press_R",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 4,
+        "BitIndex": 3,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/CWP/doors",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 3,
+        "BitIndex": 2,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/CWP/ice_prot",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 4,
+        "BitIndex": 2,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/CWP/elec",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 4,
+        "BitIndex": 1,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/CWP/park_brk_on",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 4,
+        "BitIndex": 0,
+        "ConditionLogic": "OR",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/OH/fuel/main_pump_L",
+            "ConditionValue": ">0"
+          },
+          {
+            "Condition": "LES/saab/annun/OH/fuel/main_pump_R",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 7,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "sim/cockpit2/annunciators/autopilot",
+            "ConditionValue": "1"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 5,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/MSP/vs",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 0,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/MSP/hdg",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 1,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/MSP/nav",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 2,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/MSP/appr",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 3,
+        "ConditionLogic": "",
+        "Conditions": []
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 6,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/MSP/ias",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 1,
+        "BitIndex": 4,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/MSP/alt",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 2,
+        "BitIndex": 3,
+        "ConditionLogic": "",
+        "Conditions": []
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 2,
+        "BitIndex": 2,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/ldg_gear_status_nose",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 2,
+        "BitIndex": 0,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/ldg_gear_status_main_L",
+            "ConditionValue": ">0"
+          }
+        ]
+      },
+      {
+        "DE": "",
+        "EN": "",
+        "FR": "",
+        "ES": "",
+        "ByteIndex": 2,
+        "BitIndex": 4,
+        "ConditionLogic": "",
+        "Conditions": [
+          {
+            "Condition": "LES/saab/annun/ldg_gear_status_main_L",
+            "ConditionValue": ">0"
+          }
+        ]
+      }
+    ],
+    "ConfiguratorSettings": {
+      "device": "Bravo Throttle Quadrant"
+    }
+  }
